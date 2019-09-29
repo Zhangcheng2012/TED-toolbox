@@ -18,13 +18,18 @@ A practical 1D variable-density subsampling scheme was used.
 ## Getting Started
 Clone or download the CORE-PI code. 
 
-### Prerequisites
+## Prerequisites
 A liscence for Matlab is required. The code was tested with Matlab2017R. 
 
 ## Running the examples
 Open the "main.m" function in Matlab, choose one example from the following list, set the desired
 reduction factor (R), and run the code.
 
+## Gel phantom demo - GE scanner
+
+![demo1](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Gel_phantom.png)
+
+## Agar phantom demo - Philips scanner
 
 ![demo1](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Agar_phantom_small.png)
 
