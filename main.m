@@ -5,14 +5,14 @@ close all
 %        SET YOUR DESIRED DEMO & REDUCTION FACTOR HERE
 % ===========================================================
 demo = 'Agar_phantom_demo' % scanner vendor: Philips.  Grissom's data
-% demo = 'Gel_phantom_demo'  % scanner vendor: GE.     Insightec's data - series 25
+demo = 'Gel_phantom_demo'  % scanner vendor: GE.     Insightec's data - series 25
 
 % Set the reduction factor (k-space subsampling rate)
 switch demo
     case 'Agar_phantom_demo' 
-        R_vec =  2; %[2  4  6 ];  
+        R_vec =  [2  4  6 ];  
     case 'Gel_phantom_demo'  
-        R_vec =  2; % 2:2:10;      
+        R_vec =  2:2:10;      
 end
 
 
