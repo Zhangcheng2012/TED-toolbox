@@ -27,7 +27,7 @@ reduction factor (R), and run the code.
 
 
 ![demo1](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Agar_phantom.png)
-
+<img src="https://github.com/favicon.ico" width="48">
 
 ## Acknowledgments
 The agar phantom data is courtesy of Prof. William Grissom, Vanderbilt University, TA, USA.
