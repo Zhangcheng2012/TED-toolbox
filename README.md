@@ -26,7 +26,7 @@ Open the "main.m" function in Matlab, choose one example from the following list
 reduction factor (R), and run the code.
 
 
-![examples with different subsampling schemes](https://github.com/EfratShimron/CORE-PI-toolbox/blob/master/README_figures/phantom_examples.png)
+![demo1](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Agar_phantom.png)
 
 
 ## Acknowledgments
