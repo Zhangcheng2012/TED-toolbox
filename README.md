@@ -26,7 +26,7 @@ Open the "main.m" function in Matlab, choose one example from the following list
 reduction factor (R), and run the code.
 
 
-![demo1|50%](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Agar_phantom.png)<!-- .element height="50%" width="50%" -->
+![demo1](https://github.com/EfratShimron/TED-toolbox/blob/master/figures/TED_Agar_phantom_small.png)
 
 
 ## Acknowledgments
