@@ -9,8 +9,8 @@ proposed Compressed Sensing reconstruction framework. The method is described in
 that was submitted to JMRI. 
 
 This Matlab toolbox contains the TED code and two temperature reconstruction demos:
-1. Agar phantom data, acquired with a Philips scanner.
-2. Gel phantom data, acquiredw with a GE scanner.
+1. Gel phantom data, acquiredw with a GE scanner.
+2. Agar phantom data, acquired with a Philips scanner.
 
 In both cases, fully sampled data was acquired in-vitro and then retrospectively subsampled offline.
 A practical 1D variable-density subsampling scheme was used.
