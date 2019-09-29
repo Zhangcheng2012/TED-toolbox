@@ -40,7 +40,7 @@ switch demo
         PARAMS.TE = 11.2; 
         PARAMS.N = 256; % Image size is NxN
         PARAMS.NC = 8;  % Number of Coils
-        PARAMS.NT = 14; % Number of time frames
+        PARAMS.NT = 12; % Number of time frames
 
         % Reconstruction params 
         PARAMS.t_example = 5;     % a time frame for plotting examples (for fully-sampled data)
